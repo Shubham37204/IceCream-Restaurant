@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin-top: 4pc;
+}
+
+.cake {
+    margin-top: 3pc !important;
+    margin-left: -4pc !important;
+}
+
+.side {
+    margin-left: 4pc !important;
+    margin-top: 21pc !important;
+}
+
+.kaala {
+    width: 50% !important;
+    border-radius: 35px !important;
+    color: black !important;
+    background-color: white !important;
+}
+
+.kaala:hover {
+    color: white !important;
+    background-color: black !important;
+    ;
+    cursor: pointer;
+}
+
+.img {
+    height: 31pc;
+}
+
+.fa-twitter {
+    font-size: 3pc;
+    margin-right: 1pc;
+    color: black;
+}
+
+.fa-instagram {
+    font-size: 3pc;
+    margin-right: 1pc;
+    color: black;
+}
+
+.fa-facebook-f {
+    color: black;
+    font-size: 3pc;
+}
+
+.niche {
+    margin-top: 7pc !important;
+}
+
+.paragraph {
+    margin-left: 3pc !important;
+    margin-top: 4pc !important;
+    font-size: 1.25pc !important;
+}
+
+.image {
+    width: 66% !important;
+    margin-left: 47pc !important;
+    margin-top: -24pc !important;
+}
+
+.h1,
+.p {
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    margin-left: -3pc !important;
+    margin-right: -4pc !important;
+}
+
+.straw {
+    height: 100vh;
+    margin-top: 2pc;
+}
+
+.image1 {
+    height: 80vh !important;
+    margin-left: 50pc !important;
+    margin-top: -22pc;
+}
+
+.details {
+    margin-left: 3pc;
+}
